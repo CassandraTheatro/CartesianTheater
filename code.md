@@ -1,0 +1,1 @@
+[dot.plan|https://github.com/CassandraTheatro/CartesianTheater/blob/main/ideas.infa]

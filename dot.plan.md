@@ -1,1 +1,2 @@
-[ideas.md|https://github.com/CassandraTheatro/CartesianTheater/blob/main/ideas.md]
+
+[ideas.md](https://github.com/CassandraTheatro/CartesianTheater/blob/main/ideas.md])
